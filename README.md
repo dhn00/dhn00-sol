@@ -1,2 +1,3 @@
 # sol
-solidity practice
+solidity projects
+
